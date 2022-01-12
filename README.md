@@ -9,7 +9,7 @@
 * Basic Analysis
 * Data Cleaning
 * Data Analysis
-* Conclusion
+* Key Takeaway
 
 ## General Information
 - Provide general information about your project here.
@@ -34,4 +34,4 @@ Libraries
 - All the coding written as part of this project was learnt from Upgrad program and referencing respective library webpages for syntax
 
 ## Contact
-Project Facilitator – Rohit Kotikanyadanam Anand
+Project Facilitator â€“ Rohit Kotikanyadanam Anand
